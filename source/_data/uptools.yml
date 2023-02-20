@@ -1,0 +1,44 @@
+    - name: 魔力设
+      url: https://www.51mo.com/
+      img: https://www.51mo.com/images/logo-plan.png
+      description: 文章封面图片设计，设计好截图保存至图床
+
+    - name: Font Awesome
+      url: https://fontawesome.com/search
+      img: https://cdn.staticaly.com/gh/codertoro/image_hosting@master/image.1mcjrmivkig0.webp
+      description: 小图标库，直接在i标签class中引用
+
+    - name: 去不图床
+      url: https://7bu.top/upload
+      img: https://cdn.staticaly.com/gh/codertoro/image_hosting@master/image.3l2mq6lxxs80.webp
+      description: 收费的图床工具，号称永久保存
+
+    - name: 宝塔面板
+      url: https://www.bt.cn/new/index.html?invite_code=MV9rd3Jmbno=
+      img: https://cdn.staticaly.com/gh/codertoro/image_hosting@master/image.azckwtzeujk.webp
+      description: 简单好用的Linux/Windows服务器运维管理面板
+
+    - name: 学生云服务器
+      url: https://cloud.tencent.com/act/campus
+      img: https://img0.baidu.com/it/u=1553499101,1560333694&fm=253&fmt=auto&app=138&f=JPEG?w=775&h=500
+      description: 学生云主机_学生云数据库_云+校园特惠套餐 - 腾讯云
+  
+    - name: GitHub
+      url: https://github.com
+      img: https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-128.png
+      description: 程序猿的家
+
+    - name: IconFinder
+      url: https://www.iconfinder.com/
+      img: https://www.iconfinder.com/static/img/logo/black.svg?7cfe2038c8
+      description: 小图标和小图片，都是图片格式，可直接复制链接
+     
+    - name: 微信公众平台
+      url: https://mp.weixin.qq.com/cgi-bin/loginpage?url=%2Fcgi-bin%2Fappmsg%3Fbegin%3D0%26count%3D10%26type%3D77%26action%3Dlist_card%26token%3D2065787066%26lang%3Dzh_CN
+      img: https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/374_Weixin_logo-128.png
+      description: 微信公众号创作平台
+    
+    - name: 优酷创作平台
+      url: https://mp.youku.com/new/video
+      img: https://img1.baidu.com/it/u=1754605651,3075632198&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=800
+      description: 免费上传，博文中挂载非常友好
