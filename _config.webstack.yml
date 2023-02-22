@@ -39,6 +39,9 @@ menu:
   - name: MyEdge
     icon: fas fa-bars
     config: myedge
+  - name: 百宝箱
+    icon: fas fa-box
+    config: collect
     # submenu:
     #   - name: 大连理工大学
     #     # icon: fas fa-tools
